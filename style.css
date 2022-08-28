@@ -3,6 +3,8 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
+    min-height: 100vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 header {
@@ -75,12 +77,19 @@ li {
 .information h3 {
     display: flex;
     justify-content: center;
+    color: #1f2937;
 }
 
 .collection {
     display: flex;
+    justify-content: space-between;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 
+.collection p {
+    color: #1f2937;
+}
 .one {
     display: flex;
     flex-direction: column;
