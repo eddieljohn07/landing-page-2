@@ -72,4 +72,21 @@ li {
     object-fit: cover;
 }
 
+.information h3 {
+    display: flex;
+    justify-content: center;
+}
+
+.collection {
+    display: flex;
+}
+
+.one {
+    display: flex;
+}
+
+.one img{
+    width: 200px;
+}
+
 
