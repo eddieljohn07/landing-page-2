@@ -3,7 +3,6 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
-    min-height: 100vh;
     font-family: 'Roboto Flex', sans-serif;
     border-left: 200px;
 }
@@ -88,6 +87,7 @@ li {
     justify-content: space-between;
     padding-left: 200px;
     padding-right: 200px;
+    flex-wrap: wrap;
 }
 
 .collection p {
