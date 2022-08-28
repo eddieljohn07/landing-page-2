@@ -83,10 +83,62 @@ li {
 
 .one {
     display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .one img{
-    width: 200px;
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+    border-color: #3882f6;
+    border: solid #3882f6;
+}
+
+.two {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.two img{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+    border-color: #3882f6;
+    border: solid #3882f6;
+}
+
+.three{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.three img{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+    border-color: #3882f6;
+    border: solid #3882f6;
+}
+
+.four {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.four img{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 10px;
+    border-color: #3882f6;
+    border: solid #3882f6;
 }
 
 
