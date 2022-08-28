@@ -219,4 +219,9 @@ li {
 
 footer {
     background-color: #1f2937;
+    color: #f9FAf8;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
 }
