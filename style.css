@@ -161,6 +161,8 @@ li {
 }
 
 .inspiring {
+    padding-top: 100px;
+    padding-bottom: 100px;
     display: flex;
     flex-direction: column;
     align-content: center;
